@@ -4,10 +4,10 @@
 
   <div class="z-10">
     <h1 class="text-6xl font-bold uppercase text-white">
-      Lara<span class="text-black">Gigs</span>
+      EMO<span class="text-black">MOE</span>
     </h1>
     <p class="text-2xl text-gray-200 font-bold my-4">
-      Find or post Laravel jobs & projects
+      Find or post your jobs & projects
     </p>
     <div>
       @auth
